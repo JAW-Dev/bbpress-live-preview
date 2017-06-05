@@ -1,6 +1,6 @@
 # bbPress: Live Preview Addon
 
-Add a live preview to your bbPress forms.
+Add a live preview to your bbPress forums.
 
 You can choose to display the live preview as a toggle. Switching from the bbPress editor and the live preview, or you can display the live preview below the editor.
 
